@@ -1,18 +1,34 @@
 
 .navbar {
-  background-color: #AAAAAA;
+  background-color: #AAA;
 }
 
 .navbar-default .navbar-brand {
   color: black;
 }
 
+#bs-example-navbar-collapse-1 {
+  background-color: #AAA;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+  text-align: center;
+  font-size: 16px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  font-weight: bold;
+}
+
+
 
 .chicken {
-  background-color: #AAAAAA;
+  background-color: #AAA;
   padding-right: 10px;
   padding-left: 10px;
   padding-bottom: 10px;
 }
+
 
 
